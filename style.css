@@ -1,0 +1,214 @@
+body{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.div-1{
+    text-align: center;
+    color: white;
+    /* background-image: linear-gradient(to right, red ,blue); */
+    background-image: linear-gradient(rgba(243, 236, 236, 0.056), rgba(0, 0, 0, 0.912)), url(images/donation3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-inside-1{
+    width: 1000px;
+}
+
+.header-1{
+    font-size: 80px;
+    margin: 0px;
+}
+.paragraph-1{
+    font-size: 27px;
+}
+.button-1{
+    background-color: rgba(255, 85, 85, 0.986);
+    color: white;
+    border: 0px;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.div-2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.div-inside-2{
+    width: 850px;
+}
+.header-2{
+    font-size: 60px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.div-3{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+.div-inside-3{
+    color: rgb(98, 98, 98);
+    padding: 10px 25px;
+    background-color: rgba(235, 238, 235, 0.686);
+    margin: 15px;
+    font-size: 30px;
+}
+.div-inside-3-s-1{
+    color: rgb(244, 75, 75);
+    padding: 10px 25px;
+    background-color: rgb(254, 220, 220);
+    margin: 15px;
+    font-size: 30px;
+    border: 3px solid rgb(244, 75, 75); 
+}
+.div-inside-3-s{
+    color: rgb(98, 98, 98);
+    padding: 10px 15px;
+    background-color: rgba(235, 238, 235, 0.686);
+    margin: 15px;
+    font-size: 30px;
+}
+.div-4{
+    margin-top: 50px;
+    text-align: center;
+}
+.paragraph-2{
+    font-size: 25px;
+    color: grey;
+    margin: 0;
+}
+.line-1{
+    width: 918px;
+}
+.button-2{
+    background-color: rgba(255, 85, 85, 0.986);
+    color: white;
+    border: 0px;
+    font-size: 30px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.div-5{
+    display: flex;
+    justify-content: center;
+
+}
+.div-inside-5-1{
+    padding: 15px;
+    background-color: #dff8fa;
+    margin: 20px;
+    width: 350px;
+    padding: 20px;
+}
+.div-inside-5-2{
+    padding: 15px;
+    background-color: #f8b48a;
+    margin: 20px;
+    width: 350px;
+    padding: 20px;
+}
+.div-inside-5-3{
+    padding: 15px;
+    background-color: #dfff90;
+    margin: 20px;
+    width: 350px;
+    padding: 20px;
+}
+.header-5{
+    font-size: 30px;
+}
+.paragraph-5{
+    font-size: 20px;
+    color: grey;
+}
+.image-5{
+    margin-top: 40px;
+}
+.div-6{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.div-inside-6-1{
+    width: 700px;
+    padding-right: 100px;
+}
+.image{
+    width: 35%;
+    border-radius: 10px;
+}
+.header-6{
+    font-size: 50px;
+}
+.paragraph-6{
+    font-size: 20px;
+}
+.div-inside-6-2{
+    width: 700px;
+    padding-left: 150px;
+}
+.button-3{
+    background-color: rgba(255, 85, 85, 0.986);
+    color: white;
+    border: 0px;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.section-7{
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+}
+.div-7{
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    background-color: rgb(243, 243, 167);
+    width: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+}
+.input-1{
+    font-size: 20px;
+    border: 0px;
+    background-color: rgb(225, 225, 225);
+    padding: 10px;
+}
+.button-4{
+    background-color: rgba(255, 85, 85, 0.986);
+    color: white;
+    border: 0px;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.footer-1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: flex;
+    background-image: linear-gradient(to right, red ,blue);
+}
+.div-8 h2{
+    color: whitesmoke;
+}
+.div-8 h1{
+    color: rgb(241, 109, 109);
+    font-size: 40px;
+    font-family: cursive;
+}
